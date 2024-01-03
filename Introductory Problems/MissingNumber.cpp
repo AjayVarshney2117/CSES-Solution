@@ -1,3 +1,11 @@
+/***************************************************************
+Author : Ajay Varshney
+GitHub : https://github.com/AjayVarshney2117/
+Code written in C++
+
+Question Link : https://cses.fi/problemset/task/1083
+***************************************************************/
+
 #include <iostream>
  
 using std::cin;
