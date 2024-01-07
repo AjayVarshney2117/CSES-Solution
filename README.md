@@ -16,7 +16,7 @@ My main aim is to:
 1. Understandable in a layman manner.
 
 - *Feel free to fork this repo and you can also give your views on solution in comments.*<br>
-- *If any solution is incorrect and tell me by writing it on comments with proper TC and explaination is plus*
+- *If any solution is incorrect, you can tell me by writing it on comments with proper TC and explaination is plus*
 
 ### You can also found me at platforms:<br>
 
