@@ -10,8 +10,6 @@ Question Link : https://cses.fi/problemset/task/1163
 #include <vector>
 #include <set>
 
-#include<bits/stdc++.h>
-
 using std::cin;
 using std::cout;
 using std::endl;
